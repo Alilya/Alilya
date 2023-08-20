@@ -1,24 +1,12 @@
-<h1>Hello!</h1>
+<h1>Hello! I`m Alina</h1>
+<img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Welcome!;I+am+a+frontend+developer" alt="Typing SVG" />
+
 <div align="center">
-<div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alilya" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alilya&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=alilya" alt="Gift's LangStat"/>
+   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alilya&theme=react"/>
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alilya&theme=react" />
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alilya&theme=react" />
+   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=alilya&theme=react" /> 
+   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alilya&theme=react&utcOffset=8" />  
 </div>
-Generates a snake game from a github user contributions graph
 
-
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/alilya/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/alilya/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/alilya/output/github-contribution-grid-snake.svg"
-  />
-</picture>
