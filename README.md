@@ -1,3 +1,4 @@
-### 👋
-<h1>Hi, my name is Alina </h1>
-<div[![trophy](https://github-profile-trophy.vercel.app/?alilya=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)div>
+### 👋<h1>Hi, my name is Alina </h1>
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?alilya=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
